@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, sustainabilty stuff, running and sleeping.
 - 🌱 I’m currently learning becoming a web developer.
 
-- 📫 How to reach me: here ob github :)
+- 📫 How to reach me: here on github :)
 
 <!---
 Polinou/Polinou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
